@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cafe Student</string>
+    <string name="add_btn_text">Lägg till</string>
+    <string name="introduktion_text">Här ser du Cafe Students fulla utbud av mumsiga mackor.</string>
+    <string name="title_activity_order">Beställning</string>
+    <string name="title_activity_my_order">Min beställning</string>
+    <string name="inga_objekt">Inga mackor i kundvagnen</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_time">Enter time</string>
+    <string name="lagg_i_kundvagnen">Lägg i kundvagnen</string>
+    <string name="lagg_bestallning">Lägg beställning</string>
+    <string name="mina_bestallningar">Mina beställningar</string>
+    <string name="valj_macka">Välj macka</string>
+    <string name="ingen_macka_kundvagn">Ingen macka i kundvagnen</string>
+    <string name="bestallningsbekraftelse_titel">Beställningsbekräftelse</string>
+    <string name="bestallning_tillagd_text">Din beställning är mottagen</string>
+    <string name="valj_datum_for_upphamtning">Välj datum för upphämtning</string>
+    <string name="valj_tidpunkt_for_upphamtning">Välj tidpunkt för upphämtning</string>
+
+</resources>
